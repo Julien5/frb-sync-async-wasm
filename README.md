@@ -1,0 +1,1 @@
+# frb-sync-async-wasm
